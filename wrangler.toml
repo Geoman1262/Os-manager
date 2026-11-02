@@ -1,8 +1,0 @@
-name = "os-management"
-main = "worker.js"
-compatibility_date = "2026-11-02"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "os-management-db"
-database_id = "PASTE_YOUR_D1_DATABASE_ID_HERE"
