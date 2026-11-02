@@ -1,0 +1,8 @@
+name = "os-manager"
+main = "worker.js"
+compatibility_date = "2026-11-02"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "os-management-db"
+database_id = "7887d7f9-34b7-41ee-b8ce-69f4ca474889"
